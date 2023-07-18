@@ -1,3 +1,0 @@
-[submodule "week-2/lib/erc1363-payable-token"]
-	path = week-2/lib/erc1363-payable-token
-	url = https://github.com/vittominacori/erc1363-payable-token
